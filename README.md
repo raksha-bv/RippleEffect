@@ -1,6 +1,6 @@
 # Ripple Effect
 
-![Ripple Effect](https://github.com/AdityaAnandCodes/Ripple-Effect/blob/main/assets/Thumbnail.png)
+![Ripple Effect](https://github.com/raksha-bv/RippleEffect/blob/main/assets/Thumbnail.png)
 
 
 ## Problem Statement
